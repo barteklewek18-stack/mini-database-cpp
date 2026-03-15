@@ -1,0 +1,8 @@
+# executables
+*.exe
+
+# CLion / JetBrains
+.idea/
+
+# database file
+Database.txt
